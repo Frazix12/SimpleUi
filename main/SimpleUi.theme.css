@@ -1,0 +1,18 @@
+/**
+ * @name Simple UI
+ * @description A Beautiful theme for betterdiscord
+ * @author Frazix
+ * @version 1.0.0
+ * @source https://github.com/Frazix-gamers/SimpleUi-For-BetterDiscord
+ * @updateUrl https://github.com/Frazix-gamers/SimpleUi-For-BetterDiscord/blob/main/SimpleUi.theme.css
+ * @authorId 847030527822266378
+ * @invite ynWdPzqhdH
+ */
+ @import url("https://frazix-gamers.github.io/SimpleUi-For-BetterDiscord/src/main.css");
+:root {
+  --customFont: "Poppins";
+  --background-image: url("https://i.imgur.com/rn0AlMm.jpg");
+  --opacity: 0.95;
+  --settingsmodalwidth: 960px; /* default:	960px			(width of the settings modal, px/vw)															*/
+  --settingsmodalheight: 80vh;
+}
