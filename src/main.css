@@ -527,3 +527,20 @@
 .winButton-3UMjdg:hover {
   background-color: var(--background-tertiary);
 }
+.spoilerText-27bIiA,
+.spoilerText-27bIiA.hidden-3B-Rum {
+    background-color: transparent !important;
+}
+
+.spoilerText-27bIiA.hidden-3B-Rum > .inlineContent-2YnoDy {
+    opacity: 1 !important;
+    filter: blur(3px);
+    pointer-events: unset;
+}
+.homeIcon-r0w4ny path {display:none}
+.homeIcon-r0w4ny {
+background-repeat: no-repeat;
+background-image: var(--home-icon-image);
+background-size: contain;
+background-position: center;
+}
