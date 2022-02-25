@@ -552,3 +552,8 @@
   background-size: contain;
   background-position: center;
 }
+.listItemWrapper-3d87LP .wrapper-3kah-n .childWrapper-1j_1ub,
+.listItemWrapper-3d87LP .wrapper-3kah-n .childWrapper-1j_1ub:hover {
+  box-shadow: 0 0 10 #ffbc03, 0 0 30 #ffbc03;
+  background-color: #ffbc03;
+}
